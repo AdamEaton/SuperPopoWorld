@@ -23,17 +23,17 @@ A meme-filled testing ground for various facets of Super Mario World ROM-hacking
 - A super-secret 97th exit
 
 ## Third-Party Tools Used
-[Lunar Magic (General-purpose SMW hacking tool)](https://www.smwcentral.net/?p=section&a=details&id=41329)
-by FuSoYa
+[Lunar Magic](https://www.smwcentral.net/?p=section&a=details&id=41329)
+(General-purpose SMW hacking tool) by FuSoYa
 
-[AddMusicK (SPC encoder)](https://www.smwcentral.net/?p=section&a=details&id=37906)
-by Kipernal et al.
+[AddMusicK](https://www.smwcentral.net/?p=section&a=details&id=37906)
+(SPC encoder) by Kipernal et al.
 
-[HxD (Hex editor)](https://www.smwcentral.net/?p=section&a=details&id=28982)
-by Maël Hörz
+[HxD](https://www.smwcentral.net/?p=section&a=details&id=28982)
+(Hex editor) by Maël Hörz
 
-[YY-CHR (Sprite editor)](https://www.smwcentral.net/?p=section&a=details&id=27208)
-by Yy
+[YY-CHR](https://www.smwcentral.net/?p=section&a=details&id=27208)
+(Sprite editor) by Yy
 
 ## Included Resources
 [Overworld Indicators](https://www.smwcentral.net/?p=section&a=details&id=19605)
@@ -44,6 +44,9 @@ ASM patch by Alcaro
 
 [Super Mario World - Athletic Theme (PAL Version)](https://www.smwcentral.net/?p=section&a=details&id=14249)
 Music port by Dark Mario Bros
+
+[Solstice - Title Screen](https://www.smwcentral.net/?p=section&a=details&id=22352)
+Music port by Milon Luxy
 
 [Pirates of the Caribbean - The Black Pearl](https://www.smwcentral.net/?p=section&a=details&id=14091)
 Music port by Wakana
